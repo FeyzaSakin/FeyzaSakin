@@ -4,4 +4,4 @@ Hi,👋 I'm a developer:
 
 * ⚡ I'm interested in building secure, scalable, and impactful solutions. 
 
-* 💼 Actively seeking internship, part-time, and full-time opportunities in software engineering.
+* 💼 Actively seeking internship, part-time, and full-time opportunities.
