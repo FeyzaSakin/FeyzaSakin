@@ -1,4 +1,4 @@
-Hi,👋 I'm a developer:
+Hi,👋 I'm a:
 
 * 🎓 Computer Science graduate with hands-on experience with data science, cloud-native, and full-stack experience. 
 
